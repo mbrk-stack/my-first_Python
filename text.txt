@@ -1,0 +1,11 @@
+Écrire une classe Player qui :
+
+ne prendra aucun argument lors de son instanciation.
+affectera à chaque objet créé un attribut energie valant 3 par défaut.
+affectera à chaque objet créé un attribut alive valant True par défaut.
+fournira à chaque objet une méthode blessure() qui diminue
+ l'attribut energie de 1.
+fournira à chaque objet une méthode soin() qui augmente l'attribut
+ energie de 1.
+si l'attribut energie passe à 0, l'attribut alive doit passer
+ à False et ne doit plus pouvoir évoluer.
