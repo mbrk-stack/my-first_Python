@@ -39,5 +39,5 @@ else:
     print("Un des noms entrés n'existe pas dans la liste.")
 
 # print(compare(eleve1, eleve2))
-# print(compare(eleve2, eleve3)) 
+print(compare(eleve2, eleve3)) 
 
